@@ -1,2 +1,4 @@
 # gulp_template
-template gulp main
+template gulp
+install: npm i
+start project: gulp
