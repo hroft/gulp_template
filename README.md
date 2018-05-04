@@ -1,4 +1,4 @@
-# gulp_template
-template gulp
-install: npm i
-start project: gulp
+# gulp_template #
+
+* install: npm i
+* start project: gulp
